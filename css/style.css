@@ -343,3 +343,10 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+@media screen and (max-width: 600px) {
+    .marker {
+        font-size: 12px;
+    }
+}
+
